@@ -39,7 +39,7 @@ public class AppUtils {
 		return map;
 	}
 
-	/** 以指定格式获取当前时间格式字符串 */
+	/** 以指定格式获取当前时间格式字符串as */
 	public static String getDate(String format) {
 		if (format == null)
 			format = "yyyy-MM-dd";
