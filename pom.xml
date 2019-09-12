@@ -21,7 +21,7 @@
 	</properties>
      
 	<dependencies>    
-	    <!-- springboot 包  -->
+	    <!-- springboot 包list  -->
 	    <dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-web</artifactId>
